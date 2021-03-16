@@ -1,0 +1,20 @@
+body{
+text-align: center;
+background-color: bisque;
+font-family: cursive;
+
+}
+img{
+height: 400px;
+width:600px; 
+}
+.image-section{
+display:flex;
+justify-content: center;
+}
+.section-style{
+background-color: antiquewhite;
+margin: 10px;
+padding: 20px;
+    
+}
